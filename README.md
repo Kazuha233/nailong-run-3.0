@@ -106,3 +106,13 @@ supabase-schema.sql 数据库 Schema（表 / RPC / 反作弊函数，幂等可�
 ## 📝 CHANGELOG
 
 版本更新记录见 [CHANGELOG.md](CHANGELOG.md)。
+
+## 📜 许可证（License）
+
+本项目采用 **Nailong Run License**（自定义双许可）：
+
+- ✅ **免费使用**：个人使用、≤5 人小团队内部非商业用途——可自由使用、复制、修改与分发
+- ❌ **商业授权**：盈利企业、5 人以上团队、SaaS / 云服务或任何直接或间接盈利场景，需另行获取商业授权
+- 📋 **条件**：须保留版权声明（Copyright © 2026 随枫 (Kazuha233)）
+
+详见 [LICENSE](LICENSE)。
