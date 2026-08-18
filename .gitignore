@@ -1,0 +1,21 @@
+# Hermes 会话/附件数据（敏感，不入库）
+.hermes/
+
+# 打包工具链与杂物（APK 构建产物、演示页、签名证书——含 keystore 敏感）
+else/
+*.apk
+*.zip
+
+# Supabase CLI 本地状态
+supabase/.temp/
+
+# Python/构建
+__pycache__/
+*.pyc
+dist/
+build/
+*.spec
+
+# 系统
+Thumbs.db
+.DS_Store

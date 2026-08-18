@@ -1,0 +1,15 @@
+{
+  "name": "奶龙快跑3",
+  "short_name": "奶龙快跑3",
+  "description": "致敬 Chrome 小恐龙的奶龙跑酷游戏：越过石块、蹲躲直升机、收集奶鱼护体，跑完一首歌冲向雪峰！",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#101018",
+  "theme_color": "#101018",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
