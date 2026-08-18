@@ -19,8 +19,3 @@ build/
 # 系统
 Thumbs.db
 .DS_Store
-
-# 后端部署文件（不入游戏仓库）
-supabase/
-edge-functions/
-supabase-schema.sql
